@@ -35,3 +35,4 @@ sem contar no número de informações que seriam perdidas.
 ### Dia 23/02
 
 * Atividade 5: "É possível testar tudo?"
+![Exercicio](engenhariadesoftware/Imagens/Exercicio_5.jpg)
