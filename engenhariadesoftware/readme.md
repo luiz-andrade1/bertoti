@@ -35,4 +35,5 @@ sem contar no número de informações que seriam perdidas.
 ### Dia 23/02
 
 * Atividade 5: "É possível testar tudo?"
-![Exercicio](engenhariadesoftware/Imagens/Exercicio_5.jpg)
+
+Não seria possível testar tudo, visto que a gama de possibilidades que não demonstram o erro é imensa. Acrescentando, a gama de opção que mostram o erro, são apenas 3, no qual seriam dentro das extremidades próximas a 30000. Temos que, se realizarmos a divisão por 30000 dos numeros 29999, 30000 e -29999, temos resultados diferentes dos esperados, que seriam 1 e 0. Logo, não seria possível testar todos, visto que números baixos dariam resultados esperados.
