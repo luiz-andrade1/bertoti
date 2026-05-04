@@ -14,19 +14,19 @@ public class Camisa {
 
     public Camisa(){}
 
-    public String getTamanho(String tamanho){
+    public String getTamanho(){
         return tamanho;
     }
     public void setTamanho(String tamanho){
         this.tamanho = tamanho;
     }
-    public String getMaterial(String material){
+    public String getMaterial(){
         return material;
     }
     public void setMaterial(String material){
         this.material = material;
     }
-    public String getMarca(String marca){
+    public String getMarca(){
         return marca;
     }
     public void setMarca(String marca){
