@@ -30,7 +30,7 @@ sem contar no número de informações que seriam perdidas.
 
 1. Utilização de linguagem C, para ter agilidade e rapidez na execução *VS* Java, para robustez e escalabilidade;
 2. SQL, buscas rapidas esquema vertical ideal para um volume mais baixo de dados *VS* NoSQL, buscas mais lentas esquema horizontal, ideal para um grande volume de dados;
-3. Produtividade e menos código manual (Hibernate) VS Controle absoluto e máxima performance nas consultas (JDBC).
+3. (Para ponte de conexão com banco de dados) - Produtividade e menos código manual (Hibernate) VS Controle absoluto e máxima performance nas consultas (JDBC).
 
 ### Dia 23/02
 
