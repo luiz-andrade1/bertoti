@@ -28,9 +28,9 @@ sem contar no número de informações que seriam perdidas.
 
 * Atividade 4: Citar 3 cenários distintos de trade-offs.
 
-1. Utilização de linguagem C, afim de possuir outros sistemas compatíveis;
-2. Utilização de repositório para o código, afim de controlar os bugs e erros, garantir atualizações e melhorias e garantir a perpetuabilidade do código;
-3. Design adequado à utilização sensorial, a fim de tornar o software simples de se utilizar por qualquer pessoa/ cliente.
+1. Utilização de linguagem C, para ter agilidade e rapidez na execução *VS* Java, para robustez e escalabilidade;
+2. SQL, buscas rapidas esquema vertical ideal para um volume mais baixo de dados *VS* NoSQL, buscas mais lentas esquema horizontal, ideal para um grande volume de dados;
+3. 
 
 ### Dia 23/02
 
